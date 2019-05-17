@@ -1,0 +1,9 @@
+Repositorio de trabajo practico Nro 1.
+
+Los archivos son:
+
+1-Ejercicio-tablas.ipynb
+
+2-my_gm_plot.html 
+
+3-my_gm_plot.png
